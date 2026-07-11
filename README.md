@@ -477,3 +477,6 @@ Node.js • Express.js • MySQL • Sequelize • JavaScript • REST APIs
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ **Star** on GitHub.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:38BDF8,100:7DD3FC&height=120&section=footer"/>
+</p>
