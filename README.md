@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,50:EA580C,100:FB923C&height=220&section=header&text=🔐%20Authentication%20%26%20Product%20Management%20API&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:34D399,100:6EE7B7&height=220&section=header&text=Authentication%20%26%20Product%20Management%20API&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+
 > A backend REST API built with **Node.js**, **Express.js**, **MySQL**, and **Sequelize ORM** that demonstrates secure JWT Authentication, Role-Based Authorization, Product Management, Sequelize Associations, Search, Pagination, and Image Upload.
 
 <p align="center">
